@@ -1,9 +1,9 @@
 {
   "item": {
-    "id": "1",
+    "id": "12",
     "restype": "quick_app",
     "name": "1",
-    "description": "1",
+    "description": "13",
     "preview": [
       "media/Screenshot_2026-08-07-11-14-19-188_cn.waijade.wo.png",
       "media/Screenshot_2026-08-07-11-14-16-682_cn.waijade.wo.jpg",
@@ -34,6 +34,14 @@
   ],
   "downloads": {
     "xmb10": {
+      "version": "26.1.3",
+      "file_name": "downloads/cn.waijade.wordecho.release.26.1.3.rpk"
+    },
+    "xmrw6": {
+      "version": "26.1.3",
+      "file_name": "downloads/cn.waijade.wordecho.release.26.1.3.rpk"
+    },
+    "xmrw5xring": {
       "version": "26.1.3",
       "file_name": "downloads/cn.waijade.wordecho.release.26.1.3.rpk"
     }
