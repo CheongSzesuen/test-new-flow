@@ -40,37 +40,35 @@
       "updatelogs": [
         {
           "version": "26.1.3",
-          "content": "1111"
+          "content": "26.1.3"
+        },
+        {
+          "version": "26.1.4",
+          "content": "26.1.4"
         }
       ]
     },
     "xmrw5": {
       "version": "26.1.3",
       "file_name": "downloads/cn.waijade.wordecho.release.26.1.3.rpk",
-      "versionCode": 260000,
-      "updatelogs": [
-        {
-          "version": "26.1.3",
-          "content": "26.1.3"
-        },
-        {
-          "version": "26.1.2",
-          "content": "26.1.2"
-        }
-      ]
+      "versionCode": 260103
     },
     "xmrw5xring": {
       "version": "26.1.3",
-      "file_name": "downloads/cn.waijade.wordecho.release.26.1.3.rpk",
-      "versionCode": 260101
+      "file_name": "downloads/cn.waijade.wordecho.release.26.1.3.rpk"
     }
   },
   "ext": {
+    "enableAstroBoxCreatorFeatures": true,
     "bundledResources": {
       "required": [
         {
           "type": "resource",
           "id": "979890780301"
+        },
+        {
+          "type": "plugin",
+          "name": "倒数日配置工具"
         }
       ],
       "recommend": [
